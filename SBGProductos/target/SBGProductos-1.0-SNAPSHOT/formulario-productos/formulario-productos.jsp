@@ -47,7 +47,7 @@
         </nav>
 
         <div class="container mt-5">
-            <form>
+            <form action="/SBGProductos/producto-servlet">
                 <div class="form-floating mb-3">
 
                     <input class="form-control form-control-lg" id="nombreProductos" name="nombreProductos" type="text" placeholder="" aria-label=".form-control-lg example">
